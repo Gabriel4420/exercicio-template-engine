@@ -46,11 +46,11 @@
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [Dart](https://dart.dev/)
-
+- javascript
+- handlebars
 ### Dependências
 
-- [flutter](https://flutter.dev)
+- express
 
 ### Padronização de código
 
