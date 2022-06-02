@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-  <img alt="Gif da Aplicação" src="./images/Home.png" />
+  <img alt="Gif da Aplicação" src="./public/images/Home.png" />
 </p>
 
 ---
@@ -81,7 +81,7 @@ Para instalar as dependências e iniciar o projeto, você pode utilizar o npm ou
 ```bash
   # instalar as dependências
   ❯ npm install
-  
+
 
   # Iniciar o projeto
   ❯ npm start
